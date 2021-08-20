@@ -1,12 +1,13 @@
-## SALVE!! 👋
+## SALVE!! 👋 <img src="https://github.com/lechendi/lechendi/blob/main/Sem%20T%C3%ADtulo-2-Recuperado.png" aligh="left" widht="100" height="100"/>
+
 
 
 Me chamo Leandro Chendi, tenho 36 anos, São Paulo, Guarulhos.
 
 Estudante de Analise e desenvolvimento de sistemas, estudo HTML, CSS e JS através da plataforma Udemy.
 
-Estou em transição de carrreira, depois de 12 anos de enfermagem!!💉
-
+Estou em transição de carrreira, depois de 12 anos de enfermagem!!💉 
+##
 
 __Sobre minhas metas👕:__
 
@@ -15,8 +16,6 @@ __Sobre minhas metas👕:__
 - Ter facilidade em uma ou mais linguagem.
 - Aprender até ser capaz de ensinar.
 - Aprender Python!🐍
-
- <img src="https://github.com/lechendi/lechendi/blob/main/Sem%20T%C3%ADtulo-2-Recuperado.png" align="left" heigth="2" widtdt="2">
 
 ##
 
