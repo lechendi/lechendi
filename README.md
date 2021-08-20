@@ -1,5 +1,7 @@
-## SALVE!! 👋 <img src="https://github.com/lechendi/lechendi/blob/main/Sem%20T%C3%ADtulo-2-Recuperado.png" aligh="left" widht="100" height="100"/>
+<img src="https://github.com/lechendi/lechendi/blob/main/Sem%20T%C3%ADtulo-2-Recuperado.png" align="right" width="400" height="200" >
 
+
+## SALVE!! 👋
 
 
 Me chamo Leandro Chendi, tenho 36 anos, São Paulo, Guarulhos.
